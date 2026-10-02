@@ -1,0 +1,46 @@
+ExpenseID,Month,Category,Amount,Description
+EXP-001,2026-01-01,Shop Rent,18000,Monthly Shop Rent
+EXP-002,2026-01-01,Salaries,25000,Staff Salaries
+EXP-003,2026-01-01,Marketing,5500,Instagram Ads & Pamphlets
+EXP-004,2026-01-01,Utilities,3200,Electricity & Internet
+EXP-005,2026-01-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-006,2026-02-01,Shop Rent,18000,Monthly Shop Rent
+EXP-007,2026-02-01,Salaries,25000,Staff Salaries
+EXP-008,2026-02-01,Marketing,6000,Instagram Ads & Pamphlets
+EXP-009,2026-02-01,Utilities,3200,Electricity & Internet
+EXP-010,2026-02-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-011,2026-03-01,Shop Rent,18000,Monthly Shop Rent
+EXP-012,2026-03-01,Salaries,25000,Staff Salaries
+EXP-013,2026-03-01,Marketing,6500,Instagram Ads & Pamphlets
+EXP-014,2026-03-01,Utilities,3200,Electricity & Internet
+EXP-015,2026-03-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-016,2026-04-01,Shop Rent,18000,Monthly Shop Rent
+EXP-017,2026-04-01,Salaries,25000,Staff Salaries
+EXP-018,2026-04-01,Marketing,7000,Instagram Ads & Pamphlets
+EXP-019,2026-04-01,Utilities,3200,Electricity & Internet
+EXP-020,2026-04-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-021,2026-05-01,Shop Rent,18000,Monthly Shop Rent
+EXP-022,2026-05-01,Salaries,25000,Staff Salaries
+EXP-023,2026-05-01,Marketing,7500,Instagram Ads & Pamphlets
+EXP-024,2026-05-01,Utilities,3200,Electricity & Internet
+EXP-025,2026-05-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-026,2026-06-01,Shop Rent,18000,Monthly Shop Rent
+EXP-027,2026-06-01,Salaries,25000,Staff Salaries
+EXP-028,2026-06-01,Marketing,8000,Instagram Ads & Pamphlets
+EXP-029,2026-06-01,Utilities,3200,Electricity & Internet
+EXP-030,2026-06-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-031,2026-07-01,Shop Rent,18000,Monthly Shop Rent
+EXP-032,2026-07-01,Salaries,25000,Staff Salaries
+EXP-033,2026-07-01,Marketing,8500,Instagram Ads & Pamphlets
+EXP-034,2026-07-01,Utilities,3200,Electricity & Internet
+EXP-035,2026-07-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-036,2026-08-01,Shop Rent,18000,Monthly Shop Rent
+EXP-037,2026-08-01,Salaries,25000,Staff Salaries
+EXP-038,2026-08-01,Marketing,9000,Instagram Ads & Pamphlets
+EXP-039,2026-08-01,Utilities,3200,Electricity & Internet
+EXP-040,2026-08-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"
+EXP-041,2026-09-01,Shop Rent,18000,Monthly Shop Rent
+EXP-042,2026-09-01,Salaries,25000,Staff Salaries
+EXP-043,2026-09-01,Marketing,9500,Instagram Ads & Pamphlets
+EXP-044,2026-09-01,Utilities,3200,Electricity & Internet
+EXP-045,2026-09-01,Miscellaneous,2000,"Tea, Snacks & Maintenance"

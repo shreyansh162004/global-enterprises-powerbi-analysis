@@ -1,0 +1,51 @@
+CustomerID,CustomerName,City,AgeGroup,LeadSource,TotalVisits
+CUST-1001,Swati Saxena,Narsinghpur,18-24,Word of Mouth,3
+CUST-1002,Nidhi Gupta,Katni,45+,Word of Mouth,2
+CUST-1003,Megha Yadav,Katni,25-34,Word of Mouth,3
+CUST-1004,Divya Verma,Jabalpur,45+,Word of Mouth,3
+CUST-1005,Deepak Lata,Seoni,18-24,Instagram,3
+CUST-1006,Kunal Verma,Jabalpur,18-24,Walk-in,3
+CUST-1007,Deepak Yadav,Jabalpur,18-24,Local Ads,3
+CUST-1008,Aarav Srivastava,Katni,25-34,Instagram,3
+CUST-1009,Isha Saxena,Jabalpur,18-24,Local Ads,3
+CUST-1010,Amit Chourasia,Jabalpur,25-34,Walk-in,3
+CUST-1011,Manish Tripathi,Jabalpur,25-34,Instagram,3
+CUST-1012,Amit Sharma,Jabalpur,18-24,Word of Mouth,2
+CUST-1013,Kavya Pandey,Jabalpur,18-24,Instagram,3
+CUST-1014,Varun Saxena,Jabalpur,35-44,Word of Mouth,3
+CUST-1015,Archana Soni,Jabalpur,18-24,Local Ads,3
+CUST-1016,Swati Pandey,Jabalpur,18-24,Pamphlet,3
+CUST-1017,Saurabh Soni,Jabalpur,18-24,Local Ads,3
+CUST-1018,Pooja Chourasia,Jabalpur,35-44,Local Ads,1
+CUST-1019,Swati Agrawal,Jabalpur,18-24,Word of Mouth,3
+CUST-1020,Varun Yadav,Jabalpur,25-34,Walk-in,3
+CUST-1021,Swati Pandey,Mandla,45+,Instagram,3
+CUST-1022,Amit Singh,Jabalpur,25-34,Local Ads,3
+CUST-1023,Kunal Pandey,Jabalpur,35-44,Instagram,3
+CUST-1024,Deepak Verma,Jabalpur,25-34,Local Ads,3
+CUST-1025,Divya Chourasia,Narsinghpur,18-24,Pamphlet,3
+CUST-1026,Saurabh Soni,Katni,25-34,Walk-in,3
+CUST-1027,Swati Mishra,Jabalpur,18-24,Word of Mouth,3
+CUST-1028,Pooja Mishra,Katni,18-24,Local Ads,3
+CUST-1029,Pooja Singh,Seoni,25-34,Instagram,3
+CUST-1030,Divya Yadav,Narsinghpur,18-24,Instagram,3
+CUST-1031,Divya Dwivedi,Satna,18-24,Local Ads,3
+CUST-1032,Archana Tripathi,Jabalpur,18-24,Pamphlet,3
+CUST-1033,Swati Chourasia,Jabalpur,18-24,Word of Mouth,2
+CUST-1034,Saurabh Soni,Jabalpur,35-44,Word of Mouth,3
+CUST-1035,Divya Soni,Satna,25-34,Word of Mouth,3
+CUST-1036,Aarav Patel,Katni,45+,Walk-in,3
+CUST-1037,Saurabh Jain,Jabalpur,18-24,Walk-in,3
+CUST-1038,Siddharth Pandey,Jabalpur,25-34,Local Ads,3
+CUST-1039,Neha Jain,Jabalpur,25-34,Instagram,3
+CUST-1040,Saurabh Mishra,Jabalpur,25-34,Word of Mouth,3
+CUST-1041,Sneh Sharma,Jabalpur,25-34,Walk-in,3
+CUST-1042,Alok Gupta,Jabalpur,25-34,Word of Mouth,3
+CUST-1043,Amit Yadav,Katni,25-34,Word of Mouth,3
+CUST-1044,Varun Srivastava,Jabalpur,25-34,Instagram,3
+CUST-1045,Alok Jain,Mandla,25-34,Instagram,3
+CUST-1046,Aditya Lata,Katni,25-34,Pamphlet,3
+CUST-1047,Kavya Chourasia,Jabalpur,35-44,Pamphlet,2
+CUST-1048,Sneh Dwivedi,Katni,25-34,Word of Mouth,3
+CUST-1049,Isha Singh,Jabalpur,25-34,Word of Mouth,3
+CUST-1050,Manish Singh,Jabalpur,35-44,Word of Mouth,2

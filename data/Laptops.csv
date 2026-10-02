@@ -1,0 +1,11 @@
+LaptopID,Brand,Model,Processor,RAM,Storage,Category,BaseBuyPrice,BaseSellingPrice
+LAP-DEL-01,Dell,Latitude 5490,Core i5 8th Gen,8GB,256GB SSD,Mid-Range,14500,19500
+LAP-DEL-02,Dell,XPS 13,Core i7 10th Gen,16GB,512GB SSD,Premium,25000,33500
+LAP-HP-01,HP,EliteBook 840 G5,Core i5 8th Gen,8GB,256GB SSD,Mid-Range,15000,20500
+LAP-HP-02,HP,ProBook 440 G7,Core i7 10th Gen,16GB,512GB SSD,Mid-Range,21500,28500
+LAP-LEN-01,Lenovo,ThinkPad T480,Core i5 8th Gen,16GB,256GB SSD,Budget,16000,21500
+LAP-LEN-02,Lenovo,ThinkPad X1 Carbon,Core i7 10th Gen,16GB,512GB SSD,Premium,27500,36500
+LAP-MAC-01,Apple,MacBook Air A1466,Core i5 5th Gen,8GB,128GB SSD,Budget,13000,18000
+LAP-MAC-02,Apple,MacBook Air M1,M1 8-Core,8GB,256GB SSD,Premium,38500,48500
+LAP-ASU-01,ASUS,TUF Gaming F15,Core i5 10th Gen,16GB,512GB SSD,Gaming,29500,39000
+LAP-ACR-01,Acer,Aspire 3,Core i3 10th Gen,8GB,1TB HDD,Budget,10500,14500
